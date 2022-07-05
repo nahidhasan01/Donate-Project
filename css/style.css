@@ -109,8 +109,25 @@ body {
     font-size: 28px;
     font-weight: 300;
     margin-bottom: 15px;
-    
+
 }
-.other-amnt{
+
+.other-amnt {
     margin-bottom: 30px;
 }
+
+.other-amnt a {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(lightsalmon, orangered);
+    display: block;
+    width: 150px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 615px;
+    margin-top: 50px;
+}
+/* section 2 done */
+
