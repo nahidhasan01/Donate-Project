@@ -276,4 +276,71 @@ body {
     font-weight: 500;
     border-radius: 10px;
 }
+
 /* section 4 done */
+.header-upd {
+    text-align: center;
+}
+
+.header-upd h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#mrgn-upd {
+    margin-top: 100px;
+
+}
+
+.header-upd p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.email-btm {
+    text-align: center;
+}
+
+.email-btm input {
+    background-color: #D9D9D9;
+    border: none;
+    padding: 15px 30px;
+    margin-top: 100px;
+
+}
+
+#form {
+    background-color: #FFF4D6;
+    width: 80%;
+    height: 250px;
+    margin-top: 80px;
+    margin-left: 109px;
+}
+
+.email-btm a {
+    color: #ffffff;
+    background: #FF5959;
+    text-decoration: none;
+    padding: 13px 15px;
+    margin-left: -4px;
+}
+
+/* section 5 done */
+
+#footer{
+    margin-top: 100px;
+    background-color: #0B0D17;
+}
+.centerize{
+    text-align: center;
+}
+.centerize h1{
+    font-size: 36px;
+    color: #FF5959;
+    padding-top: 30px;
+}
+.centerize p{
+    color: white;
+    padding-top: 20px;
+}
