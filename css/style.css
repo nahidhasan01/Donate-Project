@@ -328,19 +328,22 @@ body {
 
 /* section 5 done */
 
-#footer{
+#footer {
     margin-top: 100px;
     background-color: #0B0D17;
 }
-.centerize{
+
+.centerize {
     text-align: center;
 }
-.centerize h1{
+
+.centerize h1 {
     font-size: 36px;
     color: #FF5959;
     padding-top: 30px;
 }
-.centerize p{
+
+.centerize p {
     color: white;
-    padding-top: 20px;
+    padding: 20px 0px;
 }
