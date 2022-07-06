@@ -48,7 +48,7 @@ body {
     margin-left: 410px;
 }
 
-.mrgn-btm {
+#mrgn-btm {
     margin-bottom: 100px;
 }
 
@@ -104,11 +104,12 @@ body {
     color: #FF5959;
 }
 
-.other-amnt h4 {
+.other-amnt input {
     color: #B3B3B3;
     font-size: 28px;
     font-weight: 300;
     margin-bottom: 15px;
+    border: none;
 
 }
 
@@ -128,6 +129,151 @@ body {
     font-weight: 700;
     margin-left: 615px;
     margin-top: 50px;
+    margin-bottom: 100px;
 }
+
 /* section 2 done */
 
+.donate-head {
+    text-align: center;
+}
+
+.donate-head h1 {
+    font-size: 45px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.donate-head p {
+    font-size: 20px;
+    color: #707070;
+}
+
+#first-one img {
+    width: 80px;
+}
+
+#second-one img {
+    width: 80px;
+}
+
+#third-one img {
+    width: 80px;
+}
+
+.box-dtls {
+    display: flex;
+    margin-top: 50px;
+}
+
+#first-one {
+    width: 30%;
+    background-color: #4f9da61a;
+    padding: 20px 25px;
+    margin-right: 25px;
+}
+
+#second-one {
+    width: 30%;
+    background-color: #ff59591a;
+    padding: 20px 25px;
+    margin-right: 25px;
+}
+
+#third-one {
+    width: 30%;
+    background-color: #fff4d6;
+    padding: 20px 25px;
+    margin-right: 25px;
+}
+
+#first-one h1 {
+    color: #121212;
+    font-size: 24px;
+    margin: 10px 0px;
+}
+
+#second-one h1 {
+    color: #121212;
+    font-size: 24px;
+    margin: 10px 0px;
+}
+
+#third-one h1 {
+    color: #121212;
+    font-size: 24px;
+    margin: 10px 0px;
+}
+
+#first-one p {
+    color: #707070;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#second-one p {
+    color: #707070;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#third-one p {
+    color: #707070;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#margin {
+    margin-bottom: 100px;
+}
+
+/* section 3 done */
+#background {
+    background-color: gray;
+}
+
+.unique {
+    display: flex;
+    padding: 80px;
+}
+
+.r-txt {
+    width: 50%;
+}
+
+.l-txt {
+    width: 50%;
+}
+
+.r-txt h1 {
+    font-size: 55px;
+    color: #FAFAFA;
+}
+
+.r-txt span {
+    color: orange;
+}
+
+.r-txt p {
+    color: white;
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+.l-txt p {
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.l-txt a {
+    margin-top: 15px;
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, orangered);
+    display: block;
+    width: 100px;
+    padding: 20px;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+}
+/* section 4 done */
